@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /**
- * main - returns alphabets
+ * main -returns alphabets
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -15,6 +15,6 @@ int main(void)
 		putchar(ch);
 		ch++;
 	}
-	putcher('\n');
+	putchar('\n');
 	return (0);
 }
